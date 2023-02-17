@@ -16,7 +16,7 @@
 
 ### 下载
 
-[点击下载]()
+[点击下载](https://github.com/kwok-jay/Alfred_Workflows-TimeStamp_Convert/releases/download/v3.0/TimeStamp.Convert.v3.0.0.alfredworkflow)
 
 ### 安装
 
